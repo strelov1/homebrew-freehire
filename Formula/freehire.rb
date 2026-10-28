@@ -15,25 +15,25 @@ class Freehire < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/strelov1/freehire-cli/releases/download/v0.27.0/freehire_darwin_arm64"
-      sha256 "4f525aa13a049c78995d8266a1ba44b6192058b499b42427cc2dd074495646cf"
+      url "https://github.com/strelov1/freehire-cli/releases/download/v0.28.0/freehire_darwin_arm64"
+      sha256 "ca75a6aae3fb7ca0893ab344568d7eeb92f697185ea6f65f4d6cf9e5da625d07"
     end
 
     on_intel do
-      url "https://github.com/strelov1/freehire-cli/releases/download/v0.27.0/freehire_darwin_amd64"
-      sha256 "18b7d92f53d032f27aa2bb8c89fece39881c910980f3d48140c37631591ebe0f"
+      url "https://github.com/strelov1/freehire-cli/releases/download/v0.28.0/freehire_darwin_amd64"
+      sha256 "aa3b04947c4de8f8f19be0724f60de2f762822ac4cd540742e349fa573b919ff"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/strelov1/freehire-cli/releases/download/v0.27.0/freehire_linux_arm64"
-      sha256 "d7b0aec9d011bd8fd41ea5cac6903255467f46ea8684a63bed39506c9839d04f"
+      url "https://github.com/strelov1/freehire-cli/releases/download/v0.28.0/freehire_linux_arm64"
+      sha256 "289d396617957b240c86fb9496bccca0b51d21a28adf61875991e2be60105746"
     end
 
     on_intel do
-      url "https://github.com/strelov1/freehire-cli/releases/download/v0.27.0/freehire_linux_amd64"
-      sha256 "1835b2e5808b4b1e2a7e71ee8921414e21412219c393748fcc7f36192db5670c"
+      url "https://github.com/strelov1/freehire-cli/releases/download/v0.28.0/freehire_linux_amd64"
+      sha256 "0019e0743805954b5c3448455264bb01a3a1c80d1491de49138e621fb9f098be"
     end
   end
 
